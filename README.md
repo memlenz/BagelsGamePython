@@ -1,5 +1,3 @@
----
-
 # Bagels - Jeu de Déduction Logique
 
 ## Description
@@ -88,5 +86,3 @@ Merci d'avoir joué !
 - Ajout d'un mode **difficulté** avec plus de chiffres.
 - Interface graphique avec **Tkinter** ou **Pygame**.
 - Ajout d'un mode **multijoueur**.
-
----
